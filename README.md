@@ -1,7 +1,5 @@
-# Welcome to GitHub Desktop!
+MY README For Decision Analysis
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I still confuse about this README. But I will slowly get it. (I HOPE)
 
-I still confuse about this README. But I will slowly get it
-
-**YESS**
+**YESS LET's DO THIS**
