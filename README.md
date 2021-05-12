@@ -1,4 +1,4 @@
-MY README For Decision Analysis
+Decision Analysis
 
 I am still confused about this README. But I will slowly get it. (I HOPE)
 
